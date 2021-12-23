@@ -1,8 +1,8 @@
 package RestaurantManagement;
 
 public class UserName {
-	private static String userName; //±£´æµÇÂ¼ÓÃ»§Ãû
-	private static String tableNum;  //±£´æ²Í×À±àºÅ
+	private static String userName; //ï¿½ï¿½ï¿½ï¿½ï¿½Â¼ï¿½Ã»ï¿½ï¿½ï¿½
+	private static String tableNum;  //ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 	
 	static void setUserName(String str)
 	{
@@ -23,6 +23,4 @@ public class UserName {
 	{
 		return tableNum;
 	}
-
-
 }
